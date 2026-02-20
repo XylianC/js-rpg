@@ -5,5 +5,5 @@ I will try to make a recreation of final fantasy 1, using only HTML, CSS and JS
 
 ## Rules
 No fancy shit, only pure code, no frameworks, no anything.
-Everything has to come from me, google is allowed, tutorials are not.
+Everything has to come from me, google & tutorials are allowed. AI IS NOT!
 
